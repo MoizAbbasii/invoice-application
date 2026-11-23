@@ -1,0 +1,6 @@
+{
+  "name": "ZATCA Tax Invoice Studio",
+  "description": "Precision bilingual Arabic/English Saudi Tax Invoice builder with exact A4 layout fidelity and automatic ZATCA Phase 1 TLV QR code generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
